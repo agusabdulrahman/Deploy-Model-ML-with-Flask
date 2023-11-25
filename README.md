@@ -1,6 +1,7 @@
 # Deploy-Model-ML-with-Flask
 
 # Demo 
+![demo](https://github.com/agusabdulrahman/Deploy-Model-ML-with-Flask/blob/main/127.0.0.1_5000%20-%20Google%20Chrome%202023-11-25%2006-49-11.mp4)
 https://github.com/agusabdulrahman/Deploy-Model-ML-with-Flask/blob/main/127.0.0.1_5000%20-%20Google%20Chrome%202023-11-25%2006-49-11.mp4
 
 ## Cara Menggunakan
