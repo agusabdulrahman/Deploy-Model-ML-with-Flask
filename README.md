@@ -15,6 +15,9 @@
   ```
 3. Install dependesi yang dibutuhkan:
 4. Jalankan aplikasi Flask
+   ```
+   python app.py
+   ```
 
 # Kontribusi 
 Jika ingin berkontribusi pada project ini, silahkan pull request.
